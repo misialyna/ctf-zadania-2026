@@ -1,0 +1,10 @@
+=== DANE LOGOWANIA SECURESYSTEMS ===
+Login: secure_user
+Hasło: secure_pass123
+
+=== DOKUMENT PRACOWNICZY ===
+Identyfikator pracownika: SEC-2024-AX7492
+Poziom dostępu: CZOLGOWY
+Sekretne dane: CTF{krypto_secure_2024}
+
+Uwaga: Te dane są sklasyfikowane i nie mogą być rozpowszechniane bez autoryzacji działu bezpieczeństwa.
