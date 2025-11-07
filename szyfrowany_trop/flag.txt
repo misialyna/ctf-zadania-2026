@@ -1,1 +1,0 @@
-CTF{krypto_secure_2024}
